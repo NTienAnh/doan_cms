@@ -10,3 +10,7 @@ TRANSFER_TOKEN_SALT=b2Z0uJ6b9Itewqr4Ou5Azg==
 DATABASE_CLIENT=sqlite
 DATABASE_FILENAME=.tmp/data.db
 JWT_SECRET=eGbMqnkpFiNkYcmr+k47HQ==
+
+
+
+https://docs.google.com/document/d/1rSpQkLwpK66KQ_NFXCGaz74WODpop5tv7-a_JSSr_Ms/edit
